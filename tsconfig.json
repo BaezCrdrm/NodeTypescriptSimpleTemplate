@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "target": "esnext",
+        "strict": true,
+        "rootDir": "./",
+        "outDir": "./dist",
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true
+    }
+}
